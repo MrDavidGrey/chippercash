@@ -1,0 +1,2 @@
+# chippercash
+static website
